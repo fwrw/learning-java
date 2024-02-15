@@ -1,4 +1,4 @@
-package com.fwrw.Hello;
+package com.fwrw.hello;
 
 /**
  * Hello world!
