@@ -1,6 +1,8 @@
-com/fwrw/datatypes/DataTypes.class
 com/fwrw/methods/Television.class
 com/fwrw/Hello/Hello.class
 com/fwrw/methods/User.class
 com/fwrw/bank/App.class
+com/fwrw/control/Counter.class
+com/fwrw/control/InvalidParamException.class
+com/fwrw/datatypes/DataTypes.class
 com/fwrw/bank/BankAccount.class
