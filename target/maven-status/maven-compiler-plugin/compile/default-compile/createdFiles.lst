@@ -2,7 +2,11 @@ com/fwrw/methods/Television.class
 com/fwrw/Hello/Hello.class
 com/fwrw/methods/User.class
 com/fwrw/bank/App.class
+com/fwrw/interfaces/InternetBrowser.class
 com/fwrw/control/Counter.class
 com/fwrw/control/InvalidParamException.class
+com/fwrw/interfaces/PhoneDevice.class
 com/fwrw/datatypes/DataTypes.class
+com/fwrw/interfaces/Iphone.class
 com/fwrw/bank/BankAccount.class
+com/fwrw/interfaces/MediaPlayer.class
